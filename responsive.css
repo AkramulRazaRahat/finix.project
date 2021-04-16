@@ -1,0 +1,8 @@
+@media all and (max-width:1000px) {
+    .fix-width {
+        width: 100%;
+        max-width: 100%;
+        margin: auto;
+        
+    }
+}
